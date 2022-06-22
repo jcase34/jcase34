@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Jacob Case, and I'm currently working on becoming an iOS developer/engineer. 
+My name is Jacob Case, and I'm currently transition from electrical engineering to software engineering.
 
-My most recent accomplishments include finishing Stanford Online courses around data structures and algorithms, working from graphs and trees to hash tables. The two courses completed so far were done so in Python3. I'm currently enrolled in module 3, which focuses on dynamic programming, minimum spanning trees, and greedy algortithms! 
+My most recent accomplishments include finishing Stanford Online courses around data structures and algorithms, working from graphs and trees to hash tables. The two courses completed so far were done so in Python3. I'm currently enrolled in module 3, which focuses on dynamic programming, minimum spanning trees, and greedy algortithms.
 
-I've also been spending a lot of time learning iOS/mobile development. For this I chose dive deep into the HackingWithSwift platform and have completed a number of mini-projects along with some self challenges (hangman) and the like. Currently searching to work with some cool APIs to make an app that's start to finish as a way to showcase on my portfolio. 
+I've also been spending a lot of time learning iOS/mobile development. I found HackingWithSwift to be a very good resource to jumping into iOS development, building mini-projects and gettin exposure into what type of apps can be built. Alongside with this, I spent time completing a portion of Angela Yu's Udemy iOS course which was also a great class for exposure. I'm now making headway on completing my own app (TrashMapper) based on the learnings from these resources. 
 
-My goal in the near term (3-6mon) is to land an iOS dev role at a company that values challenge and growth. As far as industries I'm not set on one. Would just like to work on technologies/products to help improve peoples' lives. 
+My goal in the near term is to land a software engineering role at company that values challenge and growth. As far as industries I'm not set on one. Would just like to work on technologies/products to help improve peoples' lives. 
 
 Feel free to reach me on LinkedIn (infobar on the left). Cheers!
 
