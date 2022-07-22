@@ -6,7 +6,7 @@ My most recent accomplishments include finishing Stanford Online courses around 
 
 [Stanford Algorithms Course - Homeworks](https://github.com/jcase34/Stanford-Algorithms-Course)
 
-I've also been spending a lot of time learning iOS/mobile development. Using a couple resources (Angela Yu - Udemy, HackingWithSwift), I've been able to come up to speed fairly quickly. I'm currently building out my own personal project called [Trashmapper](https://github.com/jcase34/TrashMapper-iOS-Project) that utilizes UIKit, Firebas, camera kit, and other features. I also have a few others ideas but would like to complete this one first. 
+I've also been spending a lot of time learning iOS/mobile development. Using a couple resources (Angela Yu - Udemy, HackingWithSwift), I've been get a handle on mini-projects and building out some applications using URLSession, delegates, tableViews, etc. I'm currently building out my own personal project called [Trashmapper](https://github.com/jcase34/TrashMapper-iOS-Project) that utilizes UIKit, Firebase, camera kit, and other features. 
 
 ### iOS Project Demos
 #### Classic Hangman (UI built in code)
