@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jacob Case, and I'm currently transition from electrical engineering to software engineering.
+My name is Jacob Case, and I'm currently transitioning from electrical engineering to software engineering.
 
 My most recent accomplishments include finishing Stanford Online courses around data structures and algorithms, working from graphs and trees to hash tables. The two courses completed so far were done so in Python3. I'm currently enrolled in module 3, which focuses on dynamic programming, minimum spanning trees, and greedy algortithms.
 
