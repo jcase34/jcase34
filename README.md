@@ -10,10 +10,10 @@ I've also been spending a lot of time learning iOS/mobile development. Using a c
 
 ### iOS Project Demos
 #### Classic Hangman (UI built in code)
-(Link)
+<img src="https://github.com/jcase34/jcase34/blob/main/hangman.gif" width="50%" height="50%"/>
 
 #### iTunes Store Search
-<img src="https://github.com/jcase34/jcase34/blob/main/storeSearch.gif" width="50%" height="50%"/>
+<img src="https://github.com/jcase34/jcase34/blob/main/storeSearch.gif" width="30%" height="30%"/>
 
 #### Personal Project - TrashMapper (in progress)
 ![](https://github.com/jcase34/jcase34/blob/main/addPhotoPart6.gif)
