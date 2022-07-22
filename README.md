@@ -26,7 +26,7 @@ Feel free to reach me on LinkedIn (infobar on the left). Cheers!
 
 ## Career Projects
 ### Progenity (Technical Lead/Eng. Manager)
-
+Supported electrical, software, and general development of therapeutic smart capsule technology. Facilitated in-vivo clinical study, participating in manufacture of capsules (electronics & drug filling).
 <img src="https://github.com/jcase34/jcase34/blob/main/DDS.png"/>
 
 
