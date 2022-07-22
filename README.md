@@ -25,7 +25,14 @@ Feel free to reach me on LinkedIn (infobar on the left). Cheers!
 
 
 ### Electrical Projects (Seagate)
+#### HDD PCBA for 5TB Platform
 <img src="https://github.com/jcase34/jcase34/blob/main/5TBPCBA.jpeg" width="30%" height="30%"/>
+
+#### HDD PCBA for 6TB Platform
+<img src="https://github.com/jcase34/jcase34/blob/main/6TBPCBA.jpeg" width="30%" height="30%"/>
+
+#### Minitaturized PCBA for Helium Based HDD
+<img src="https://github.com/jcase34/jcase34/blob/main/12TBPCBA.jpeg" width="30%" height="30%"/>
 
 <!--
 **jcase34/jcase34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
