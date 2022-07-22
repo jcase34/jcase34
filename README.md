@@ -27,7 +27,7 @@ Feel free to reach me on LinkedIn (infobar on the left). Cheers!
 ## Career Projects
 ### Progenity (Technical Lead/Eng. Manager)
 
-<img src="https://github.com/jcase34/jcase34/blob/main/DDS.png" width="30%" height="30%"/>
+<img src="https://github.com/jcase34/jcase34/blob/main/DDS.png"/>
 
 
 ### Seagate (Electrical Engineer)
