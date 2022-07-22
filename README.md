@@ -10,13 +10,13 @@ I've also been spending a lot of time learning iOS/mobile development. Using a c
 
 ### iOS Project Demos
 #### Classic Hangman (UI built in code)
-<img src="https://github.com/jcase34/jcase34/blob/main/hangman.gif" width="40%" height="40%"/>
+<img src="https://github.com/jcase34/jcase34/blob/main/hangman.gif" width="30%" height="30%"/>
 
 #### iTunes Store Search
-<img src="https://github.com/jcase34/jcase34/blob/main/storeSearch.gif" width="40%" height="40%"/>
+<img src="https://github.com/jcase34/jcase34/blob/main/storeSearch.gif" width="30%" height="30%"/>
 
 #### Personal Project - TrashMapper (in progress)
-![](https://github.com/jcase34/jcase34/blob/main/addPhotoPart6.gif)
+<img src="https://github.com/jcase34/jcase34/blob/main/addPhotoPart6.gif" width="30%" height="30%"/>
 
 
 My goal in the near term is to land a software engineering role at company that values challenge and growth. As far as industries I'm not set on one. Would just like to work on technologies/products to help improve peoples' lives. 
