@@ -27,9 +27,12 @@ Feel free to reach me on LinkedIn (infobar on the left). Cheers!
 ## Career Projects
 ### Progenity (Technical Lead/Eng. Manager)
 
+<img src="https://github.com/jcase34/jcase34/blob/main/DDS.png" width="30%" height="30%"/>
 
 
 ### Seagate (Electrical Engineer)
+Lead electrical integration engineer supporting new product development of high capacity/performance HDDs.
+
 #### HDD PCBA for 5TB Platform
 <img src="https://github.com/jcase34/jcase34/blob/main/5TBPCBA.jpeg" width="30%" height="30%"/>
 
