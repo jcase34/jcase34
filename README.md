@@ -2,7 +2,8 @@
 
 My name is Jacob Case and welcome to my github project summary page.
 
-Goal - Land a software engineering role within a company that values growth and challenge.
+#### Past 6 Months
+Over the past 6 months I've been leveling up my software engineering expertise.
 
 My most recent accomplishments include finishing Stanford Online courses around data structures and algorithms, working from graphs and trees to hash tables. The two courses completed so far were done so in Python3. I'm currently enrolled in module 3, which focuses on dynamic programming, minimum spanning trees, and greedy algortithms.
 
