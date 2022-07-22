@@ -13,7 +13,7 @@ I've also been spending a lot of time learning iOS/mobile development. Using a c
 (Link)
 
 #### iTunes Store Search
-(Link)
+![](https://github.com/jcase34/jcase34/blob/main/storeSearch.gif)
 
 #### Personal Project - TrashMapper (in progress)
 ![](https://github.com/jcase34/jcase34/blob/main/addPhotoPart6.gif)
