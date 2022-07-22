@@ -24,6 +24,9 @@ My goal in the near term is to land a software engineering role at company that 
 Feel free to reach me on LinkedIn (infobar on the left). Cheers!
 
 
+### Electrical Projects (Seagate)
+<img src="https://github.com/jcase34/jcase34/blob/main/5TBPCBA.jpeg" width="30%" height="30%"/>
+
 <!--
 **jcase34/jcase34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
