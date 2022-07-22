@@ -2,6 +2,8 @@
 
 My name is Jacob Case and welcome to my github project summary page.
 
+Goal - Land a software engineering role within a company that values growth and challenge.
+
 My most recent accomplishments include finishing Stanford Online courses around data structures and algorithms, working from graphs and trees to hash tables. The two courses completed so far were done so in Python3. I'm currently enrolled in module 3, which focuses on dynamic programming, minimum spanning trees, and greedy algortithms.
 
 [Stanford Algorithms Course - Homeworks](https://github.com/jcase34/Stanford-Algorithms-Course)
@@ -17,11 +19,6 @@ I've also been spending a lot of time learning iOS/mobile development. Using a c
 
 #### Personal Project - TrashMapper (in progress)
 <img src="https://github.com/jcase34/jcase34/blob/main/addPhotoPart6.gif" width="30%" height="30%"/>
-
-
-My goal in the near term is to land a software engineering role at company that values challenge and growth. As far as industries I'm not set on one. Would just like to work on technologies/products to help improve peoples' lives. 
-
-Feel free to reach me on LinkedIn (infobar on the left). Cheers!
 
 
 ## Career Projects
