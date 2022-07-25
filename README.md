@@ -12,13 +12,15 @@ My most recent accomplishments include finishing Stanford Online courses around 
 I've also been spending a lot of time learning iOS/mobile development. Using a couple resources (Angela Yu - Udemy, HackingWithSwift), I've been able to build out some mini-projects and other learning based applications using URLSession, delegates, tableViews, etc. I'm currently working on my own personal project called [Trashmapper](https://github.com/jcase34/TrashMapper-iOS-Project) that utilizes UIKit, Firebase, camera kit, and other features. 
 
 ### iOS Project Demos
-#### Classic Hangman (UI built in code)
+Classic hangman game I built within Swift as part of one of the challenges from HWS. The UI isn't suited for all devices, but works well for Iphone 12/13s. Logic coded by myself. The word list I borred from another website and basically incorproate that locally within the app directory. Purpose of this app was to build something completely functional and also setup a UI within code (swift).
 <img src="https://github.com/jcase34/jcase34/blob/main/hangman.gif" width="30%" height="30%"/>
 
 #### iTunes Store Search
+Simple Itunes store search using URLSession. Guided Project
 <img src="https://github.com/jcase34/jcase34/blob/main/storeSearch.gif" width="30%" height="30%"/>
 
 #### Personal Project - TrashMapper (in progress)
+See [this link]() for more details on this project I'm currently working on.
 <img src="https://github.com/jcase34/jcase34/blob/main/addPhotoPart6.gif" width="30%" height="30%"/>
 
 
