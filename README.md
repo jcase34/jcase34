@@ -35,7 +35,7 @@ Supported electrical, software, and general development of therapeutic smart cap
 
 
 ### Seagate (Electrical Engineer)
-Lead electrical integration engineer supporting new product development of high capacity/performance HDDs.
+Lead electrical integration engineer supporting new product development of high capacity/performance HDDs. Below are some of the projects I lead. Activities involved PCB/PCBA layout (MentorGraphics), PCBA-Bring-up, BOM management, ERP management, component verification/checkout, device (HDD) level testing. 
 
 #### HDD PCBA for 5TB Platform
 <img src="https://github.com/jcase34/jcase34/blob/main/5TBPCBA.jpeg" width="30%" height="30%"/>
