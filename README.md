@@ -27,8 +27,6 @@ My name is Jacob, thanks for stopping by! Engineer with experience in several do
 <br>
 <br>
  
-<br>
-<br>
 
 ## 💼 Skills
 
