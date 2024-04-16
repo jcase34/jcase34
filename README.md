@@ -3,7 +3,12 @@
 
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+My name is Jacob, thanks for stopping by! Engineer with experience in several domains:
+- Software development
+- Mobile (iOS) development
+- Medical devices, including combination drug device
+- Consumer electronics/embedded systems
+- PCB/PCBA design (Altium + Mentor)
 
 
 ## 📌 Pinned Repositories
@@ -18,10 +23,7 @@ I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed 
 <a href="https://github.com/jcase34/TrashMapper-iOS-Project">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jcase34&repo=TrashMapper-iOS-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br> 
-<a href="https://github.com/jcase34/Maaxboard-OSM93-Demos">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jcase34&repo=Maaxboard-OSM93-Demos&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+
 <br>
 <br>
  
@@ -41,9 +43,6 @@ Public
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
 
 <br>
 
