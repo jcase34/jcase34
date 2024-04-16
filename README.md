@@ -1,5 +1,5 @@
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/jacob-case)
 
 Hey there 👋
 
@@ -11,7 +11,7 @@ I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed 
 <br>
 
 <a href="https://github.com/jcase34/Cappriccio-iOS-app">
-  <img align="center" style="margin:0.5rem" src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcase34&repo=github-readme-stats)](https://github.com/jcase34/github-readme-stats)" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jcase34&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
