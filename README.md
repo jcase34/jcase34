@@ -11,23 +11,6 @@ My name is Jacob, thanks for stopping by! Engineer with experience in several do
 - PCB/PCBA design (Altium + Mentor)
 
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/jcase34/Cappriccio-iOS-app">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jcase34&repo=Cappriccio-iOS-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br> 
-<a href="https://github.com/jcase34/TrashMapper-iOS-Project">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jcase34&repo=TrashMapper-iOS-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
- 
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
